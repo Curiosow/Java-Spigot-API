@@ -1,4 +1,4 @@
-package fr.curiosow.cserv.core.api;
+
 
 // Author lost (edited by Curiosow)
 
