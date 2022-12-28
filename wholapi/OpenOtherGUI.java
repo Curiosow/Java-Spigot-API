@@ -2,7 +2,6 @@
 
 // By Ilix360
 
-import fr.curiosow.cserv.core.main;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 
