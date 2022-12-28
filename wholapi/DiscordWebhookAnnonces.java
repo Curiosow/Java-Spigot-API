@@ -2,8 +2,6 @@
 
 // By Gelox_
 
-import fr.curiosow.cserv.core.main;
-
 import javax.net.ssl.HttpsURLConnection;
 import java.io.OutputStream;
 import java.net.URL;
